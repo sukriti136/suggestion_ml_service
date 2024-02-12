@@ -4,6 +4,11 @@ import os
 #from keybert import KeyBERT
 
 
+
+
+
+
+
 embeddings_model_name = "all-MiniLM-L6-v2"
 #kw_model = KeyBERT(model = embeddings_model_name)
 
