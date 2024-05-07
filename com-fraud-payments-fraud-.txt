@@ -1,0 +1,28 @@
+
+Despite frequent fraud attempts, many businesses do not suffer financial losses because they implement strong fraud protection strategies. Is your organization protected?
+
+Check fraud
+Checks continue to be the payment method most often exposed to fraudulent activity. If your company writes checks or maintains checking accounts, we recommend you review the following services to ensure all your checking accounts have the fraud prevention and detection services for your company:  Positive Pay systematically compares checks presented for payment to your issued-check files to detect serial numbers and dollar amounts that don’t match. Payee validation identifies payee names that do not match the payee name information sent on your check issue files. Reverse Positive Pay is an alternative to positive pay services for companies unable to transmit issued-check files to Wells Fargo. You get the opportunity to review checks presented for payment and determine if they should be paid or returned. Payment Authorization enables you to place controls on your accounts that help to prevent fraudulent activity, specifically unauthorized checks and over the counter debits. 
+
+
+ACH fraud
+If you make ACH payments, these services can help protect you:   Wells Fargo ACH Fraud Filter – The "Stop" service automatically stops all ACH debits – except those you specifically pre-authorize – from posting to your accounts. The "Review" service presents transactions to you for pay or return decisions.     Perfect Receivables® service – If your company has a high volume of electronic receivables, reduce the risk that your account number will fall into the wrong hands. The  Perfect Receivables  service protects your account by providing "proxy" account numbers for your customers to use when remitting ACH and wire payments to you.  
+
+
+
+
+
+Report Fraud
+Act fast and follow these important steps immediately if you think you or your company might be the victim of a fraud or attempted fraud.
+
+
+
+
+
+
+Treasury Insights
+Visit Treasury Insights for tips and best practices on how to help protect your company from the threat of fraud.
+
+
+
+

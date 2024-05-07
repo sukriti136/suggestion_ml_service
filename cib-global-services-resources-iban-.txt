@@ -1,0 +1,26 @@
+
+IBAN stands for International Bank Account Number. It identifies an individual account, at a specific financial institution, in a particular country and is used to process financial transactions between institutions in different countries. Used correctly, the IBAN facilitates faster payment processing. Refer to the IBAN registry (PDF) for a list of countries that require IBANs and each country’s unique IBAN format. SWIFT (Society for Worldwide Interbank Financial Telecommunication) is the official IBAN registrar.
+
+
+
+IBAN Format
+
+
+Using IBAN
+
+
+SWIFT BIC
+
+
+
+
+The IBAN model creates a standard for account numbering among multiple countries. The model requires certain components to be present in all IBANs, but also allows for some flexibility for country-specific requirements. By adding components to existing account numbers, the IBAN improves a bank’s ability to process cross-border payments without having to manually repair transactions or replace existing account numbers. If you do not use the IBAN in countries that require its use, your payments might be returned without processing. An IBAN consists of up to 34 alphanumeric characters, which include the following:   Country code  – the ISO (International Organization for Standardization) country code   Check digits  – two check digits provided by the issuing financial institution based on a calculation that takes into account the entire IBAN   Bank identifier  – code that identifies the financial institution and, when appropriate, the branch of that financial institution servicing an account   Basic bank account number (BBAN)  – code that identifies an individual account, at a specific financial institution, in a particular country   Sample IBAN Format         Country Code Check Digits Bank Identifier Basic Bank Account Number (BBAN)     GB 76 PNBP 165671 12345678    Refer to the IBAN registry (PDF) for a list of countries that require IBANs and each country’s unique IBAN format.
+
+
+When preparing your transaction:  Insert the IBAN in the account number field on any forms or screens used to create the payment Do not use both the account number and the IBAN. Remitters sometimes mistakenly insert the account number in the account number field and the IBAN in the bank-to-bank reference field or the OBI (Originating Beneficiary Information) field. Doing so will cause the payment to stop for repair at the beneficiary bank, negating the purpose of the IBAN. Instead, simply place the IBAN, which includes the account number, in the account number field. Include both the beneficiary’s IBAN and SWIFT BIC when making international payments destined for countries that participate in the IBAN registry (see “SWIFT BIC” tab). 
+
+
+SWIFT BICs (business identifier codes), which are often called SWIFT codes, are a series of either eight or 11 alphanumeric characters that help to identify a specific financial institution. The number includes a bank code, a country code, a location code, and an optional branch code. Sample BIC         Bank Code Country Code Location Code Branch Code     PNBP GB 2L XXX (Represents the head office location)    Including an IBAN and a SWIFT BIC in wire instructions potentially will keep your wire fees lower because financial institutions in the beneficiary’s country may choose to either charge an additional fee for, or return, wires that do not include these numbers. Refer to our international resources for more information on SWIFT BIC numbers and other payment directories. Learn more about SWIFT.
+
+
+

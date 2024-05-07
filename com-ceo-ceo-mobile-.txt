@@ -1,0 +1,6 @@
+
+Unique mobile features designed to make it quick and easy for you to sign on, manage your accounts and perform transactions from your smartphone.
+
+ Biometric authentication helps make signing on to the CEO Mobile® app quick and easy. With multiple sign on options available, you can choose how you want to sign on. Biometric Authentication
+ With mobile token you can use a code on your smartphone in place of your RSA SecurID® token to access your accounts and perform transactions. Mobile token
+

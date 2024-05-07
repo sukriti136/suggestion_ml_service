@@ -1,0 +1,20 @@
+
+Find a SWIFT code, CHIPS or Fedwire ABA number, and other key routing codes for Wells Fargo locations in the U.S. and around the world. For SWIFT BIC numbers, ABA federal routing numbers, and CHIPS information, see our international resources.
+
+
+
+U.S. locations
+
+
+International locations
+
+
+
+
+         City  Name  SWIFT BIC  FED & CHIPS ABA  Reuters Code      Charlotte Wells Fargo Bank, N.A. Foreign Exchange  SWIFT TID FX: WFBIUS6WFFX  FW ABA: 026005092     Charlotte  Wells Fargo Bank, N.A. International Processing Center  Trade Operations  PNBPUS33CHA  FW ABA: 026005092  CHIPS ABA: 0509     Los Angeles  Wells Fargo Bank, N.A. International Processing Center Trade Operations  PNBPUS6L  FW ABA: 026005092  CHIPS ABA: 0509     New York  Wells Fargo Bank, N.A. International Branch  PNBPUS3NNYC  FW ABA: 026005092  CHIPS ABA: 0509     New York  Wells Fargo Bank, N.A. Foreign Exchange  WFBIUS6WFFX   WFNY (FX & MM)    Philadelphia  Wells Fargo Bank, N.A. International Processing Center  PNBPUS33  PNBPUS33PHL  FW ABA: 026005092  CHIPS ABA: 0509     San Francisco  Wells Fargo Bank, N.A.  Foreign Exchange  WFBIUS6WFFX  FW ABA: 121000248  WFSF    Winston-Salem  Wells Fargo Bank, N.A. Standby Letters of Credit  PNBPUS33SLC  FW ABA: 026005092  CHIPS ABA: 0509     Atlanta, Charlotte, Chicago, Dallas, Houston, Irvine, Los Angeles, Miami, Minneapolis, New York, Palo Alto, Philadelphia, San Francisco, Seattle  International Bank Trade Services Centers  WFBIUS6S  FW ABA: 121000248     
+
+
+   City  Name  SWIFT BIC  Reuters Code      Dublin  Wells Fargo Bank International  PNBPIE2D WBIR    Hong Kong  Wells Fargo Bank, N.A.  Hong Kong Branch  PNBPHKHH  WAHK    London  Wells Fargo Bank, N.A.  London Branch  PNBPGB2L  WFLO    Seoul  Wells Fargo Bank, N.A.  Seoul Branch  PNBPKRSX       Shanghai  Wells Fargo Bank, N.A.  Shanghai Branch  PNBPCNSH      Singapore  Wells Fargo Bank, N.A.  Singapore Branch  PNBPSGSG       Taipei  Wells Fargo Bank, N.A.  Taipei Branch  PNBPTWTP       Tokyo  Wells Fargo Bank, N.A.  Tokyo Branch  PNBPJPJX     
+
+
+
